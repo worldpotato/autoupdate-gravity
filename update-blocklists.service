@@ -1,0 +1,5 @@
+[Unit]
+Description=Update gravity lists
+
+[Service]
+ExecStart=pihole -g
